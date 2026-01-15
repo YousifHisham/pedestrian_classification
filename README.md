@@ -9,7 +9,7 @@ This project implements a pedestrian classification system using the **INRIA Per
 The dataset is already cropped and ready to use.
 👉 **[Download the INRIA Cropped Dataset](https://drive.google.com/file/d/1t8-AUQRYJb0LqGnp6ebRB7NJ-iI78mWL/view?usp=sharing)**
 
-After downloading, place the extracted `INRIAPerson` folder in the project root.
+After downloading, place the extracted `INRIAPerson` folder in the project root under "pedestrian_classification" folder.
 
 ---
 
